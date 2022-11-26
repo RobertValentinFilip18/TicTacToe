@@ -1,4 +1,3 @@
 A simple game that allows you to play Tic-Tac-Toe with your friend or with the computer. 
 The code is simple, it is compounded by two subprograms, one prints the game board, the other one verifies if the game is won by someone. 
-In the main function you can select the type of the game - PvP or PvC, input the positions for the game and, also in main function, the checks for 
-victory or tie are carried out and the players are changed - X and 0.
+In the main function you can select the type of the game - PvP or PvC, input the positions for the game and, also in main function, the checks for victory or tie are carried out and the players are changed - X and 0.
